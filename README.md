@@ -22,5 +22,5 @@ npm i -D eslint-config-wezom-relax-react-ts
 ## Install peerDependencies
 
 ```bash
-npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-prettier eslint-plugin-react eslint-plugin-react-hooks
+npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-plugin-flowtype eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
 ```

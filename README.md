@@ -5,5 +5,5 @@
 [![WezomAgency](https://img.shields.io/badge/wezom-agency-red.svg)](https://github.com/WezomAgency)
 
 
-> An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs).
+> An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs)  for React + Typescript
 >

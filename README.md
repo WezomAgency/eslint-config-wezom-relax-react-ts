@@ -6,7 +6,12 @@
 
 
 > An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs)  for React + Typescript
->
+
+## The package is in the Alpha version
+
+> __This package is not stable yet!__  
+> __So do not use it in production!__  
+> __Rules can be changed!__
 
 ## Install config
 

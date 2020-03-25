@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wezom-relax-react-ts",
-  "version": "0.1.0-alpha",
+  "version": "0.1.1-alpha",
   "description": "[![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/WezomAgency/eslint-config-wezom-relax/blob/master/LICENSE)\r [![npm](https://img.shields.io/badge/npm-install-orange.svg)](https://www.npmjs.com/package/eslint-config-wezom-relax)\r [![WezomAgency](https://img.shields.io/badge/wezom-agency-red.svg)](https://github.com/WezomAgency)",
   "main": ".eslintrc.js",
   "files": [
@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/WezomAgency/eslint-config-wezom-relax-react-ts/issues"
   },

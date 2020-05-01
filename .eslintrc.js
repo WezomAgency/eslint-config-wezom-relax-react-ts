@@ -11,7 +11,7 @@ module.exports = {
 		'react-app',
 		'plugin:react/recommended',
 		'plugin:@typescript-eslint/recommended',
-		'wezom-relax-react-ts'
+		'wezom-relax-ts'
 	],
 	settings: {
 		react: {

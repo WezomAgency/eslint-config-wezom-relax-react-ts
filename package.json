@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-wezom-relax-react-ts",
-  "version": "0.2.2-alpha",
-  "description": "[![license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/WezomAgency/eslint-config-wezom-relax/blob/master/LICENSE)\r [![npm](https://img.shields.io/badge/npm-install-orange.svg)](https://www.npmjs.com/package/eslint-config-wezom-relax)\r [![WezomAgency](https://img.shields.io/badge/wezom-agency-red.svg)](https://github.com/WezomAgency)",
+  "version": "0.3.1-beta",
+  "description": "An ESLint shareable config for React + Typescript",
   "main": ".eslintrc.js",
   "files": [
     ".eslintrc.js"
@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/WezomAgency/eslint-config-wezom-relax-react-ts#readme",
   "dependencies": {
-    "eslint-config-react-app": "^5.2.1"
+    "eslint-config-react-app": "^5.2.1",
+    "eslint-config-wezom-relax-ts": "^0.3.1-beta"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.25.0",

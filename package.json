@@ -22,7 +22,7 @@
   "homepage": "https://github.com/WezomAgency/eslint-config-wezom-relax-react-ts#readme",
   "dependencies": {
     "eslint-config-react-app": "^5.2.1",
-    "eslint-config-wezom-relax-ts": "^0.3.1-beta"
+    "eslint-config-wezom-relax-ts": "^1.0.0-beta"
   },
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.25.0",

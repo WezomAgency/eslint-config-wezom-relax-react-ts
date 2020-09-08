@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wezom-relax-react-ts",
-  "version": "0.3.2-beta",
+  "version": "1.0.0-beta",
   "description": "An ESLint shareable config for React + Typescript",
   "main": ".eslintrc.js",
   "files": [
